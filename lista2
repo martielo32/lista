@@ -34,7 +34,7 @@ http://load.kudaplay.tv/aovivo/FHD_ANIMAL_PLANET/video.m3u8?token=52e729273237ac
 #EXTINF:-1 type="stream" tvg-id="Animal Planet HD" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet HD
 http://load.kudaplay.tv/aovivo/HD_ANIMAL_PLANET/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 type="stream" tvg-id="Animal Planet HD [Alter]" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet HD [Alter]
-http://load.kudaplay.tv/aovivo/HD_ANIMAL_PLANET_ALTER/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
+http://load.kudaplay.tv/aovivo/HD_ANIMAL_PLANET_ALTER/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf 
 #EXTINF:-1 type="stream" tvg-id="Arte 1" tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png" group-title="Variedade",Arte 1
 http://load.kudaplay.tv/aovivo/SD_ARTE1/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 type="stream" tvg-id="Arte 1 HD" tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png" group-title="Variedade e Musica",Arte 1 HD
